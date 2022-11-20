@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Torneio de xadrez",
+		"description": "Um torneio de xadrez a ser realizado na praça pública, aberto a toda comunidade.",
+		"starts_at": "2022-11-20T13:45:00.000Z",
+		"image": "./images/tournament.jpg",
+		"action": "https://drive.google.com/file/d/1iwVRoriiO3n-oR8Y6juc5V5d-R7j5lkq/view?usp=sharing"
+	},
+	{
+		"title": "Torneio de xadrez",
+		"description": "Um torneio de xadrez a ser realizado na praça pública, aberto a toda comunidade.",
+		"starts_at": "2022-11-20T13:45:00.000Z",
+		"image": "./images/tournament.jpg",
+		"action": "https://drive.google.com/file/d/1iwVRoriiO3n-oR8Y6juc5V5d-R7j5lkq/view?usp=sharing"
+	},
+	{
+		"title": "Torneio de xadrez",
+		"description": "Um torneio de xadrez a ser realizado na praça pública, aberto a toda comunidade.",
+		"starts_at": "2022-11-20T13:45:00.000Z",
+		"image": "./images/tournament.jpg",
+		"action": "https://drive.google.com/file/d/1iwVRoriiO3n-oR8Y6juc5V5d-R7j5lkq/view?usp=sharing"
+	}
+]
